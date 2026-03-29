@@ -25,3 +25,5 @@ public class Customer {
         System.out.println("\nFinal Balance: " + account.getBalance());
     }
 }
+
+// Customer module implemented - manages customer details and account interactions
